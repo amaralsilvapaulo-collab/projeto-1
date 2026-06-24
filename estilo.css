@@ -20,7 +20,7 @@ h1{
 }
 main{
     background-color: red;
-    color: white;
+    color: rgb(11, 1, 1);
     max-width: 800px;
     margin: 0 auto;
     padding: 16px;

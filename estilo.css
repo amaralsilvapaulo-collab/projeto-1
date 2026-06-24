@@ -31,3 +31,11 @@ article{
 .texto-post{
     margin-left: 40px;
 }
+button{
+    width:100px;
+    padding:10px;
+    border-radius: 10px;
+    border-radius: 10px;
+    background-color: darkred
+    color:black;
+}

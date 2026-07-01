@@ -39,3 +39,7 @@ button{
     background-color: darkred
     color:black;
 }
+.imagem-post{
+    width: 600px;
+    height: 600px;
+}

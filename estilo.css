@@ -14,14 +14,12 @@ h2{
     font-weight: 1000;
     font-style: normal;
     text-align:center;
-    margin-block-start: 90px;
 }
 p{
     font-family: "Archivo Black", sans-serif;
     font-weight: 1000;
     font-style: normal;
     text-align: center;
-    margin-block-start: 100px;
 }
     background-color: rgb(192, 26, 26);
     text-align: center;
@@ -43,7 +41,7 @@ article{
 }
 .texto-post{
     margin-left: 40px;
-    margin-block-start: -50px;
+    margin-block-start: 230px;
 }
 button{
     width:120px;

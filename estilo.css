@@ -44,10 +44,10 @@ article{
     margin-block-start: 230px;
 }
 button{
-    width:100px;
-    padding:10px;
-    border-radius: 10px;
-    border-radius: 10px;
+    width:120px;
+    padding:15x;
+    border-radius: 20px;
+    border-radius: 20px;
     background-color: rgb(255, 255, 255);
     color:black;
 }

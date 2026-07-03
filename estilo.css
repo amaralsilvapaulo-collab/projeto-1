@@ -14,6 +14,7 @@ h2{
     font-weight: 1000;
     font-style: normal;
     text-align:center;
+    margin-block-start: -130px;
 }
 p{
     font-family: "Archivo Black", sans-serif;

@@ -43,7 +43,7 @@ article{
 }
 .texto-post{
     margin-left: 40px;
-    margin-block-start: 230px;
+    margin-block-start: -50px;
 }
 button{
     width:120px;

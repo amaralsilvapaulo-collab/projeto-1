@@ -15,9 +15,12 @@ h2{
     font-style: normal;
     text-align:center
 }
- 
-
- .cabeçalho{
+p{
+    font-family: "Archivo Black", sans-serif;
+    font-weight: 1000;
+    font-style: normal;
+    text-align: center;
+}
     background-color: rgb(192, 26, 26);
     text-align: center;
     padding: 20px;

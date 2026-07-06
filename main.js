@@ -1,1 +1,4 @@
-alert("olá mundo")
+    alert("olá mundo") {
+    }
+    botoes = document.querySelectorAll("button")
+    console.log(botoes)
